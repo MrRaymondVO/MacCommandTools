@@ -15,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4DEE9A2A242ABAF800EBA0C5 /* YTDL.command */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = YTDL.command; sourceTree = "<group>"; };
 		4DF31D48241D36F400E50156 /* MacCommandTools.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MacCommandTools.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4DF31D4B241D36F400E50156 /* AppleScriptObjC.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppleScriptObjC.framework; path = System/Library/Frameworks/AppleScriptObjC.framework; sourceTree = SDKROOT; };
 		4DF31D4E241D36F400E50156 /* AppDelegate.applescript */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.applescript; path = AppDelegate.applescript; sourceTree = "<group>"; };
@@ -22,6 +23,8 @@
 		4DF31D53241D36F500E50156 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/MainMenu.xib; sourceTree = "<group>"; };
 		4DF31D55241D36F500E50156 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4DF31D56241D36F500E50156 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		4DF31D5D241D392500E50156 /* MacCommandToolsCLT.command */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = MacCommandToolsCLT.command; sourceTree = "<group>"; };
+		4DF31D5E241DB64600E50156 /* TextStyles.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = TextStyles.sh; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +72,9 @@
 				4DF31D52241D36F500E50156 /* MainMenu.xib */,
 				4DF31D55241D36F500E50156 /* Info.plist */,
 				4DF31D56241D36F500E50156 /* main.m */,
+				4DF31D5D241D392500E50156 /* MacCommandToolsCLT.command */,
+				4DF31D5E241DB64600E50156 /* TextStyles.sh */,
+				4DEE9A2A242ABAF800EBA0C5 /* YTDL.command */,
 			);
 			path = MacCommandTools;
 			sourceTree = "<group>";
